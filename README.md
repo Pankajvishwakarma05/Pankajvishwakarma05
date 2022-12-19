@@ -1,6 +1,6 @@
 ![MasterHead](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
 <h1 align="center">Hi 👋, I'm Pankaj Vishwakarma</h1>
-<a href="https://app.daily.dev/Pv006"><img src="https://github.com/Pankajvishwakarma05/Pankajvishwakarma05/blob/master/devcard.svg" width="400" alt="Pankaj Vishwakarma's Dev Card"/></a>
+<a href="https://app.daily.dev/Pv006"><img src="https://api.daily.dev/devcards/cb369bff5a6d48eba103033194afa498.png?r=30s" width="400" alt="Pankaj Vishwakarma's Dev Card"/></a>
 <h3 align="center">A passionate QA Engineer and frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
