@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Vishwakarma</h1>
-<h3 align="center">QA Engineer | SDET | Playwright Automation | Aspiring Frontend Developer</h3>
+<h3 align="center">QA Engineer | SDET | Playwright Automation </h3>
 
 <p align="center">
   Passionate about building reliable test automation frameworks, improving software quality, and growing in frontend development.
@@ -69,11 +69,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pankajvishwakarma05&show_icons=true&theme=default" alt="github stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajvishwakarma05&layout=compact&theme=default" alt="top languages" />
 </p>
 
 ---
