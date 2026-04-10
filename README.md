@@ -2,6 +2,10 @@
 <h3 align="center">QA Engineer | SDET | Playwright Automation </h3>
 
 <p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500" />
+</p
+
+<p align="center">
   Passionate about building reliable test automation frameworks, improving software quality, and growing in frontend development.
 </p>
 
@@ -66,17 +70,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pankajvishwakarma05&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajvishwakarma05&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🔗 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/pankaj-v-150238195/
