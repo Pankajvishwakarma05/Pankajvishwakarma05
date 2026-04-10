@@ -19,13 +19,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pankajvishwakarma05/YOUR_REPO/main/assets/achievements.png" width="400"/>
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
