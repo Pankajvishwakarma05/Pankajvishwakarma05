@@ -9,11 +9,9 @@
 
 ## 🚀 About Me
 - 💼 Currently working as a **QA Engineer / SDET**
-- 🌱 Learning **Angular, Playwright, GitHub Actions, AWS, and DevOps**
+- 🌱 Learning **Playwright, GitHub Actions, AWS, and DevOps**
 - 🔭 Working on **Automation Frameworks, Smart Parking App, and CI/CD projects**
-- 🎯 Goal: Transition into a **Frontend Developer / Senior SDET role**
 - 📍 Based in **India**
-- 📫 Reach me at: **your-email@example.com**
 
 ---
 
@@ -21,7 +19,6 @@
 
 ### Testing & Automation
 - Playwright
-- Cypress
 - Selenium
 - API Testing
 - Postman
@@ -30,7 +27,6 @@
 - JavaScript
 - TypeScript
 - Python
-- Java
 
 ### Frontend
 - Angular
@@ -83,9 +79,9 @@
 ---
 
 ## 🔗 Connect With Me
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-id)
-- GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/pankaj-v-150238195/
+- GitHub: https://github.com/Pankajvishwakarma05
+- Email: vishwakarmapankaj006@gmail.com
 
 ---
 
