@@ -69,11 +69,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pankajvishwakarma05&show_icons=true&theme=default" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pankajvishwakarma05&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajvishwakarma05&layout=compact&theme=default" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajvishwakarma05&layout=compact&theme=tokyonight" />
 </p>
 
 ---
